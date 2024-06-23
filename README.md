@@ -54,3 +54,4 @@ We used the CrewAI framework to create an environment where multiple AI speciali
 - **Expanding the Historical Database:** Continuously add more historical figures and expand the range of conversations and debates available.
 - **Educational Partnerships:** Collaborate with more educational institutions to integrate LegacyConverse into curriculums and reach a wider audience.
 - **New Interactive Features:** Introduce additional elements like virtual classrooms and collaborative learning modules to further enrich the user experience.
+
